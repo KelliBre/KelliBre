@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KelliBre
 - 🌺 Talo'fo'fo, Guam
 - 👀 I’m interested in JavaScript, react.js, and CSS
-- 🌱 I’m currently learning C involuntary because of CS50.
+- 🌱 I’m currently software engineering student at Flatiron
 
 
 
