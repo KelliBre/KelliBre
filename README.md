@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @KelliBre<br>🌺 Talo'fo'fo, Guam<br>👀 I’m interested in CSS "quilting"<br>🌱 I’m currently a Software Engineering student at Flatiron School
+👋 Hi, I’m @KelliBre<br>🌺 Yo'ño, Guam<br>👀 
 
 
 ## 🌐 Socials:
